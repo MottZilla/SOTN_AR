@@ -2,7 +2,11 @@ Reminder! Software is currently in BETA. Bugs may be encountered.
 
 Castlevania Symphony of the Night Area Randomizer. This utility program will randomize the doors you travel through to lead to different areas. Various other changes are made to improve the gameplay experience. Several options exist for the user to choose from. 
 
-Currently no safety checks on logic are performed. It is possible when randomizing you could generate a seed you cannot complete. This will hopefully be addressed in the future. Currently combining the preset Guarded O.G. or Lycanthrope with SOTN_AR using the Gravity Boots starting relic will avoid softlock situations. 
+Important changes include all shortcuts are open immediately. For example the Jewel of Open door in Alchemy Lab is removed. The bridge you break in Underground Caverns is open incase you reach it from the entrance underneath it so you are not trapped. The Jewel of Open will still be required for the Silver Ring door and the door in Reverse Alchemy Lab. These changes allow for additional path routing options.
+
+Another major change is the ability to start with a relic of choice. You may start with one of three mobility relics or just the Faerie Scroll if you don't want a mobility relic. The purpose of a mobility relic is to avoid being soft locked, a situation where you end up in an area unable to escape or one where in order to progress you need a relic or item that you cannot reach.
+
+Currently no safety checks on logic are performed. It is possible when randomizing you could generate a seed you cannot complete. This will hopefully be addressed in the future. Currently combining the preset Guarded O.G. or Lycanthrope with SOTN_AR using the Gravity Boots starting relic will avoid softlock situations in most if not all cases.
 
 Check PPFHelp.txt if you need help setting up the PPF patch feature.
 
