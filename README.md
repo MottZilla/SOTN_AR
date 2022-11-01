@@ -4,6 +4,8 @@ Castlevania Symphony of the Night Area Randomizer. This utility program will ran
 
 Currently no safety checks on logic are performed. It is possible when randomizing you could generate a seed you cannot complete. This will hopefully be addressed in the future. Currently combining the preset Guarded O.G. or Lycanthrope with SOTN_AR using the Gravity Boots starting relic will avoid softlock situations. 
 
+Check PPFHelp.txt if you need help setting up the PPF patch feature.
+
 Best when used with the Randomizer project at https://sotn.io
 Github at https://github.com/3snowp7im/SotN-Randomizer
 
