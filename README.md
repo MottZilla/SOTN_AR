@@ -10,6 +10,8 @@ Currently no safety checks on logic are performed. It is possible when randomizi
 
 Check PPFHelp.txt if you need help setting up the PPF patch feature.
 
+Companion program for map tracking here: https://github.com/MottZilla/SOTN_AR_MAPPER
+
 Best when used with the Randomizer project at https://sotn.io
 Github at https://github.com/3snowp7im/SotN-Randomizer
 
