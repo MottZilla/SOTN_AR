@@ -15,4 +15,6 @@ Companion program for map tracking here: https://github.com/MottZilla/SOTN_AR_MA
 Best when used with the Randomizer project at https://sotn.io
 Github at https://github.com/3snowp7im/SotN-Randomizer
 
+Video Tutorial: https://youtu.be/KOAtaSmC5Uw
+
 SOTN_AR is programmed in C using DevCpp + TDM-GCC 4.9.2 32-Bit.
