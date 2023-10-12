@@ -1,8 +1,8 @@
 Reminder! Software is currently in BETA. Bugs may be encountered.
 
-Castlevania Symphony of the Night Area Randomizer. This utility program will randomize the doors you travel through to lead to different areas. Various other changes are made to improve the gameplay experience. Several options exist for the user to choose from. 
+Program includes the Richter Randomizer and Sega Saturn Maria Randomizer!
 
-Also included are the Richter Randomizer and Sega Saturn Maria Randomizer!
+Castlevania Symphony of the Night Area Randomizer. This utility program will randomize the doors you travel through to lead to different areas. Various other changes are made to improve the gameplay experience. Several options exist for the user to choose from. 
 
 Important changes include all shortcuts are open immediately. For example the Jewel of Open door in Alchemy Lab is removed. The bridge you break in Underground Caverns is open incase you reach it from the entrance underneath it so you are not trapped. The Jewel of Open will still be required for the Silver Ring door and the door in Reverse Alchemy Lab. These changes allow for additional path routing options.
 
