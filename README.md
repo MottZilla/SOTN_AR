@@ -1,6 +1,8 @@
 Reminder! Software is currently in BETA. Bugs may be encountered.
 
-Program includes the Richter Randomizer and Sega Saturn Maria Randomizer!
+Program includes functions for PS1, Sega Saturn, and PSP versions of Symphony of the Night.
+Sega Saturn and Playstation Portable versions have complete randomizers included.
+Original Playstation functions included are Area Randomizer and Richter Randomizer Patch for use with Wild Mouse's PS1 randomizer.
 
 Castlevania Symphony of the Night Area Randomizer. This utility program will randomize the doors you travel through to lead to different areas. Various other changes are made to improve the gameplay experience. Several options exist for the user to choose from. 
 
